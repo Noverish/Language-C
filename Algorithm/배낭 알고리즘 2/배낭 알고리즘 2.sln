@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "배낭 알고리즘 2", "배낭 알고리즘 2\배낭 알고리즘 2.vcxproj", "{8026C639-1631-44C9-8CB2-9BA7BAA53372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8026C639-1631-44C9-8CB2-9BA7BAA53372}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8026C639-1631-44C9-8CB2-9BA7BAA53372}.Debug|Win32.Build.0 = Debug|Win32
+		{8026C639-1631-44C9-8CB2-9BA7BAA53372}.Release|Win32.ActiveCfg = Release|Win32
+		{8026C639-1631-44C9-8CB2-9BA7BAA53372}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

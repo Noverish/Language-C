@@ -1,0 +1,11 @@
+HELLO WORLD
+WORD is a normal word
+_WORD is id word
+'a' is char word
+/* WORD */ is comment word
+/* _WORD */ is comment word
+/* 'a' asdf */ is comment word
+a /* */
+hihi hihi
+haha /* hello */
+world hihi

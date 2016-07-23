@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2423 나눔의 미학", "2423 나눔의 미학\2423 나눔의 미학.vcxproj", "{8080F135-4B7F-4D07-9825-82A3DE2273C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8080F135-4B7F-4D07-9825-82A3DE2273C6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8080F135-4B7F-4D07-9825-82A3DE2273C6}.Debug|Win32.Build.0 = Debug|Win32
+		{8080F135-4B7F-4D07-9825-82A3DE2273C6}.Release|Win32.ActiveCfg = Release|Win32
+		{8080F135-4B7F-4D07-9825-82A3DE2273C6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

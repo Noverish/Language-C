@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "withcs 4285 특수 문자 변환", "withcs 4285 특수 문자 변환\withcs 4285 특수 문자 변환.vcxproj", "{4716F4A0-D6CB-49E3-872F-9745B95903D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4716F4A0-D6CB-49E3-872F-9745B95903D1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4716F4A0-D6CB-49E3-872F-9745B95903D1}.Debug|Win32.Build.0 = Debug|Win32
+		{4716F4A0-D6CB-49E3-872F-9745B95903D1}.Release|Win32.ActiveCfg = Release|Win32
+		{4716F4A0-D6CB-49E3-872F-9745B95903D1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "withcs 3137 역 폴란드 방정식", "withcs 3137 역 폴란드 방정식\withcs 3137 역 폴란드 방정식.vcxproj", "{5E709A7A-DC29-4F4D-B2ED-1D46DA836882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E709A7A-DC29-4F4D-B2ED-1D46DA836882}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5E709A7A-DC29-4F4D-B2ED-1D46DA836882}.Debug|Win32.Build.0 = Debug|Win32
+		{5E709A7A-DC29-4F4D-B2ED-1D46DA836882}.Release|Win32.ActiveCfg = Release|Win32
+		{5E709A7A-DC29-4F4D-B2ED-1D46DA836882}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

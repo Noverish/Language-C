@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "withcs 1185 지구돌파 드릴라간", "withcs 1185 지구돌파 드릴라간\withcs 1185 지구돌파 드릴라간.vcxproj", "{C6FF6F22-AD07-4B10-B9C6-4A71ECC274B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6FF6F22-AD07-4B10-B9C6-4A71ECC274B5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C6FF6F22-AD07-4B10-B9C6-4A71ECC274B5}.Debug|Win32.Build.0 = Debug|Win32
+		{C6FF6F22-AD07-4B10-B9C6-4A71ECC274B5}.Release|Win32.ActiveCfg = Release|Win32
+		{C6FF6F22-AD07-4B10-B9C6-4A71ECC274B5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

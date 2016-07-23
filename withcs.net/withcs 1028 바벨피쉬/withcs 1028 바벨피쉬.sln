@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "withcs 1028 바벨피쉬", "withcs 1028 바벨피쉬\withcs 1028 바벨피쉬.vcxproj", "{E72DBA1C-435C-4A15-A0D1-2543F1A56805}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E72DBA1C-435C-4A15-A0D1-2543F1A56805}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E72DBA1C-435C-4A15-A0D1-2543F1A56805}.Debug|Win32.Build.0 = Debug|Win32
+		{E72DBA1C-435C-4A15-A0D1-2543F1A56805}.Release|Win32.ActiveCfg = Release|Win32
+		{E72DBA1C-435C-4A15-A0D1-2543F1A56805}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

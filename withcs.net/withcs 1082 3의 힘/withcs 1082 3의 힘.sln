@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "withcs 1082 3의 힘", "withcs 1082 3의 힘\withcs 1082 3의 힘.vcxproj", "{94A38266-B226-411D-8EC6-31FB4C02D798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94A38266-B226-411D-8EC6-31FB4C02D798}.Debug|Win32.ActiveCfg = Debug|Win32
+		{94A38266-B226-411D-8EC6-31FB4C02D798}.Debug|Win32.Build.0 = Debug|Win32
+		{94A38266-B226-411D-8EC6-31FB4C02D798}.Release|Win32.ActiveCfg = Release|Win32
+		{94A38266-B226-411D-8EC6-31FB4C02D798}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

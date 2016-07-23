@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "withcs 1060 가위, 바위, 종이!", "withcs 1060 가위, 바위, 종이!\withcs 1060 가위, 바위, 종이!.vcxproj", "{2322BF3B-6C5F-487F-975B-ABBA66AB2BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2322BF3B-6C5F-487F-975B-ABBA66AB2BCC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2322BF3B-6C5F-487F-975B-ABBA66AB2BCC}.Debug|Win32.Build.0 = Debug|Win32
+		{2322BF3B-6C5F-487F-975B-ABBA66AB2BCC}.Release|Win32.ActiveCfg = Release|Win32
+		{2322BF3B-6C5F-487F-975B-ABBA66AB2BCC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

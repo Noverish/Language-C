@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "withcs 4293 변수를 활용한 역 폴란드 계산", "withcs 4293 변수를 활용한 역 폴란드 계산\withcs 4293 변수를 활용한 역 폴란드 계산.vcxproj", "{BAF341DE-20A9-4758-8E6D-732F71695E2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF341DE-20A9-4758-8E6D-732F71695E2E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BAF341DE-20A9-4758-8E6D-732F71695E2E}.Debug|Win32.Build.0 = Debug|Win32
+		{BAF341DE-20A9-4758-8E6D-732F71695E2E}.Release|Win32.ActiveCfg = Release|Win32
+		{BAF341DE-20A9-4758-8E6D-732F71695E2E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

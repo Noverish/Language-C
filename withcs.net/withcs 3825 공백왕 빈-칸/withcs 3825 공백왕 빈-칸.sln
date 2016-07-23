@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "withcs 3825 공백왕 빈-칸", "withcs 3825 공백왕 빈-칸\withcs 3825 공백왕 빈-칸.vcxproj", "{669A5D52-6E27-4F3C-9174-2816EEAB67C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{669A5D52-6E27-4F3C-9174-2816EEAB67C7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{669A5D52-6E27-4F3C-9174-2816EEAB67C7}.Debug|Win32.Build.0 = Debug|Win32
+		{669A5D52-6E27-4F3C-9174-2816EEAB67C7}.Release|Win32.ActiveCfg = Release|Win32
+		{669A5D52-6E27-4F3C-9174-2816EEAB67C7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

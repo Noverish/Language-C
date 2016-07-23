@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "acmicpc 3062 수 뒤집기", "acmicpc 3062 수 뒤집기\acmicpc 3062 수 뒤집기.vcxproj", "{DB16752B-9DDB-44A3-A802-13089D497D28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB16752B-9DDB-44A3-A802-13089D497D28}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB16752B-9DDB-44A3-A802-13089D497D28}.Debug|Win32.Build.0 = Debug|Win32
+		{DB16752B-9DDB-44A3-A802-13089D497D28}.Release|Win32.ActiveCfg = Release|Win32
+		{DB16752B-9DDB-44A3-A802-13089D497D28}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

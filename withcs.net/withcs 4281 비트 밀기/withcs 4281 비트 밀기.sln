@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "withcs 4281 비트 밀기", "withcs 4281 비트 밀기\withcs 4281 비트 밀기.vcxproj", "{FFB5EE1D-9E37-4B10-A35C-A5DD19524752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFB5EE1D-9E37-4B10-A35C-A5DD19524752}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FFB5EE1D-9E37-4B10-A35C-A5DD19524752}.Debug|Win32.Build.0 = Debug|Win32
+		{FFB5EE1D-9E37-4B10-A35C-A5DD19524752}.Release|Win32.ActiveCfg = Release|Win32
+		{FFB5EE1D-9E37-4B10-A35C-A5DD19524752}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

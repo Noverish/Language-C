@@ -1,0 +1,2 @@
+username=skan1543
+pwd=dlwltn123

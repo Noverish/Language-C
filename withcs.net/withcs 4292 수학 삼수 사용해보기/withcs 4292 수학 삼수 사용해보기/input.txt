@@ -1,0 +1,10 @@
+sin 50
+pow 0 7
+sin 28
+pow 0 4
+exp 5
+pow 3 4
+exp 5
+exp 9
+pow 0 6
+pow 2 8

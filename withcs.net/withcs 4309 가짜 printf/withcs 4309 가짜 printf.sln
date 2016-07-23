@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "withcs 4309 가짜 printf", "withcs 4309 가짜 printf\withcs 4309 가짜 printf.vcxproj", "{1C29E9CB-F700-40F5-B756-1DC22E68F6C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C29E9CB-F700-40F5-B756-1DC22E68F6C4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1C29E9CB-F700-40F5-B756-1DC22E68F6C4}.Debug|Win32.Build.0 = Debug|Win32
+		{1C29E9CB-F700-40F5-B756-1DC22E68F6C4}.Release|Win32.ActiveCfg = Release|Win32
+		{1C29E9CB-F700-40F5-B756-1DC22E68F6C4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

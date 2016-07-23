@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "acmicpc 1094 막대기", "acmicpc 1094 막대기\acmicpc 1094 막대기.vcxproj", "{EA806569-2B4C-49D4-BB16-8DF9355EF72C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA806569-2B4C-49D4-BB16-8DF9355EF72C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EA806569-2B4C-49D4-BB16-8DF9355EF72C}.Debug|Win32.Build.0 = Debug|Win32
+		{EA806569-2B4C-49D4-BB16-8DF9355EF72C}.Release|Win32.ActiveCfg = Release|Win32
+		{EA806569-2B4C-49D4-BB16-8DF9355EF72C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "withcs 1347 소의 노래", "withcs 1347 소의 노래\withcs 1347 소의 노래.vcxproj", "{E1512937-D5EB-4FFF-9E6B-A83F89A4A075}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1512937-D5EB-4FFF-9E6B-A83F89A4A075}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E1512937-D5EB-4FFF-9E6B-A83F89A4A075}.Debug|Win32.Build.0 = Debug|Win32
+		{E1512937-D5EB-4FFF-9E6B-A83F89A4A075}.Release|Win32.ActiveCfg = Release|Win32
+		{E1512937-D5EB-4FFF-9E6B-A83F89A4A075}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

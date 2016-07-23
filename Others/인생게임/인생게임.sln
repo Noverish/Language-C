@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "인생게임", "인생게임\인생게임.vcxproj", "{ED6A3B2B-5A50-4382-B7DB-3CD98091DCAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED6A3B2B-5A50-4382-B7DB-3CD98091DCAD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ED6A3B2B-5A50-4382-B7DB-3CD98091DCAD}.Debug|Win32.Build.0 = Debug|Win32
+		{ED6A3B2B-5A50-4382-B7DB-3CD98091DCAD}.Release|Win32.ActiveCfg = Release|Win32
+		{ED6A3B2B-5A50-4382-B7DB-3CD98091DCAD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

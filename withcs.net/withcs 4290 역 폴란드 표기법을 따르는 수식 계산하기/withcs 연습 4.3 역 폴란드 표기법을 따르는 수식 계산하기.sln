@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "withcs 연습 4.3 역 폴란드 표기법을 따르는 수식 계산하기", "withcs 연습 4.3 역 폴란드 표기법을 따르는 수식 계산하기\withcs 연습 4.3 역 폴란드 표기법을 따르는 수식 계산하기.vcxproj", "{2DC42EBB-9064-40EB-8E2A-7DE4F5B59572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DC42EBB-9064-40EB-8E2A-7DE4F5B59572}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2DC42EBB-9064-40EB-8E2A-7DE4F5B59572}.Debug|Win32.Build.0 = Debug|Win32
+		{2DC42EBB-9064-40EB-8E2A-7DE4F5B59572}.Release|Win32.ActiveCfg = Release|Win32
+		{2DC42EBB-9064-40EB-8E2A-7DE4F5B59572}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+START
+strncpy 10 HELLO
+strncat 4 HELL!
+strncmp 5 HELLAWORLD

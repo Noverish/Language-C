@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "acmicpc 2511 카드놀이", "acmicpc 2511 카드놀이\acmicpc 2511 카드놀이.vcxproj", "{3D5262F7-5E08-4268-8ECA-D0133202A020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D5262F7-5E08-4268-8ECA-D0133202A020}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3D5262F7-5E08-4268-8ECA-D0133202A020}.Debug|Win32.Build.0 = Debug|Win32
+		{3D5262F7-5E08-4268-8ECA-D0133202A020}.Release|Win32.ActiveCfg = Release|Win32
+		{3D5262F7-5E08-4268-8ECA-D0133202A020}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
